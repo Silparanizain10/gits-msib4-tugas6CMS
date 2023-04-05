@@ -1,0 +1,5 @@
+Nama :Silpa Rani Zain
+Nama Universitas :Universitas Teknologi Mataram
+
+Aplikasi ini di buat dengan manual,sehingga bisa dijalankan dengan mengidupkan lokal web server apache dan mysql 
+atau menggunakan text editor kemudian jalankan di terminal php artisan serve
